@@ -12,7 +12,7 @@ import javax.swing.SpringLayout;
 /**
  * Represents the panel for user to add player into the game.
  * 
- * @author Zifei Song, Zesheng Li.
+ * @author Zifei Song.
  *
  */
 public class AddPlayerPanel extends JPanel {

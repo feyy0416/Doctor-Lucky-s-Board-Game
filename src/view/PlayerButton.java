@@ -7,7 +7,7 @@ import world.ReadOnlyWorld;
 
 /**
  * A JButton to represent a player in the view.
- * @author Zifei Song, Zesheng Li.
+ * @author Zifei Song.
  *
  */
 public class PlayerButton extends JButton {

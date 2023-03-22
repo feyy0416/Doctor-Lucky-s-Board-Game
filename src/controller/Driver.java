@@ -8,7 +8,7 @@ import world.BuildWorldModel;
 /**
  * Driver class for Doctor Lucky game to show how it works.
  *
- * @author Zifei Song, Zesheng Li.
+ * @author Zifei Song.
  */
 public class Driver {
   /**

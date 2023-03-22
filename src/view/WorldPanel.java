@@ -16,7 +16,7 @@ import world.ReadOnlyWorld;
  * Represents the world panel in the view. For detail, this panel is the main
  * panel that player can interact with the game.
  * 
- * @author Zifei Song, Zesheng Li.
+ * @author Zifei Song.
  *
  */
 public class WorldPanel extends JPanel {

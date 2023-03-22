@@ -4,7 +4,7 @@ import world.BuildWorld;
 
 /**
  * This command implements the feature to add a player into the game.
- * @author Zifei Song, Zesheng Li.
+ * @author Zifei Song.
  *
  */
 public class AddPlayer implements WorldCommand {

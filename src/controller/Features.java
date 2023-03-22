@@ -4,7 +4,7 @@ package controller;
  * Represents the features that can be used to interact between controller and
  * view.
  * 
- * @author Zifei Song, Zesheng Li.
+ * @author Zifei Song.
  *
  */
 public interface Features {

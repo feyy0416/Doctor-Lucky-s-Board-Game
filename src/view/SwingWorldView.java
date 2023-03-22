@@ -25,7 +25,7 @@ import world.ReadOnlyWorldImpl;
  * world. Users can interact with game by the given features and get feedback on
  * view.
  * 
- * @author Zifei Song, Zesheng Li.
+ * @author Zifei Song.
  *
  */
 public class SwingWorldView extends JFrame implements WorldView {

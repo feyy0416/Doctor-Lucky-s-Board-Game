@@ -6,7 +6,7 @@ import world.BuildWorld;
 /**
  * Command implements the feature to make a player attempt to attack the target.
  * 
- * @author Zifei Song, Zesheng Li.
+ * @author Zifei Song.
  */
 public class Attack implements WorldCommand {
 

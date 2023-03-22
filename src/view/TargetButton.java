@@ -8,7 +8,7 @@ import world.ReadOnlyWorld;
 /**
  * A JButton represents target in the view.
  * 
- * @author admin - Zifei Song, Zesheng Li.
+ * @author admin - Zifei Song.
  *
  */
 public class TargetButton extends JButton {

@@ -6,7 +6,7 @@ import world.BuildWorld;
 /**
  * Command implements the feature to display current room information.
  * 
- * @author Zifei Song, Zesheng Li.
+ * @author Zifei Song.
  */
 public class DisplayPlayerInfo implements WorldCommand {
   private int playerId;

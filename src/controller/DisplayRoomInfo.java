@@ -6,7 +6,7 @@ import world.BuildWorld;
 /**
  * Command implements the feature to display player's information.
  * 
- * @author Zifei Song, Zesheng Li.
+ * @author Zifei Song.
  */
 public class DisplayRoomInfo implements WorldCommand {
   

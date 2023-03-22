@@ -5,7 +5,7 @@ import controller.Features;
 /**
  * This interface represents the world view.
  * 
- * @author Zifei Song, Zesheng Li.
+ * @author Zifei Song.
  *
  */
 public interface WorldView {
