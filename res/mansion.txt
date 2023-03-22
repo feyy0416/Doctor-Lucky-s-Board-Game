@@ -1,0 +1,45 @@
+30 30 Doctor Lucky's house
+20 Doctor Lucky
+Pikachu
+20
+ 0  0  4  6 Bathroom
+ 2  6  6 12 Bedroom
+ 4 12  8 18 Sun room 
+ 8  9 14 18 Dinning room 
+14 13 17 18 Kitchen 
+ 6 18 10 24 Baby's room 
+ 8 24 12 30 Doll room
+12 18 17 26 Living room
+12 26 17 30 Foyer 
+17  9 21 18 Library
+ 4  0 12  4 Gym 
+ 8  4 12  9 Tennis court 
+12  0 16  9 Play room 
+16  0 21  9 Movie theater
+21  0 25  4 Secret room 
+25  0 29  6 Guest bathroom 
+23  6 27 12 Guest bedroom 
+21 12 25 18 Office 
+19 18 23 24 Laundry room 
+17 24 21 30 Cat room 
+20
+0 2 Shower nozzle
+3 3 Fork
+19 4 Cat paw
+4 3 Sharp Knife
+17 1 pen
+10 2 Basketball
+9 4 Tin book
+14 4 Magic crystal
+4 1 Spoon
+1 2 Table lamp
+14 3 Magic book
+16 2 Slippers
+8 2 Umbrella
+11 3 Tennis racket
+2 2 Flower pot
+8 2 High-heeled shoes
+19 2 Cat litter
+5 3 Pram
+16 3 Toilet plunger
+13 2 Horror movie
